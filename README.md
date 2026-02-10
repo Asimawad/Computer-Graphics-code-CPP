@@ -4,8 +4,17 @@ Learning computer graphics from the ground up with **C++** and **OpenGL/GLUT**. 
 
 ## 🖼️ [See Rendered Examples](https://asimawad.github.io/projects/computer-graphics.html)
 
+### 3D Cube
 ![3D Cube](https://asimawad.github.io/assets/graphics/cube.png)
+
+### Mathematical Curves
 ![Mathematical Curves](https://asimawad.github.io/assets/graphics/curves.png)
+
+### Regular Polygons
+![Polygons](https://asimawad.github.io/assets/graphics/polygons.png)
+
+### Data Visualization (Pie Chart)
+![Pie Chart](https://asimawad.github.io/assets/graphics/piechart.png)
 
 ---
 
